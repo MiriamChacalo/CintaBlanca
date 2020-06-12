@@ -1,0 +1,34 @@
+body{
+    height: 900px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.padre{
+    width: 600px;
+    height: 500px;
+    border: solid 2px black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.hijo{
+    width: 30%;
+    height: 30%;
+    border: 2px solid green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nieto{
+    width: 30%;
+    height: 30%;
+    border:2px greenyellow solid;
+    display: flex;
+
+
+}

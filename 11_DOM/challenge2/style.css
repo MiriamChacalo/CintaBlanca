@@ -1,0 +1,28 @@
+.abuelo{
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: center;
+}
+
+.abuela{
+    margin-left: 600px;
+    margin-right: 600px;
+
+}
+.padre{
+    border: black 2px solid;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+.madre{
+    margin-top: 20px;
+    margin-left: 1200px;
+    margin-right: 600px;
+}
+.hijo{
+    margin-top: 50px;
+    margin-left: 800px;
+    margin-right: 800px;
+}

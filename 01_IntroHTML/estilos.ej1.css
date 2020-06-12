@@ -1,0 +1,16 @@
+* {
+    background-color: #a0d5e5;
+}
+h1{
+    text-align: center;
+    color: rgb(21, 114, 235);
+}
+img {
+    width: 400px;
+}
+.nombre {
+    font-size: 20px;
+}
+a {
+    text-align: center;
+}
